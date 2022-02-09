@@ -1,3 +1,15 @@
+---
+# Deprecated
+---
+
+TCLAP source code is available on SourceForge. Under the `Code` tab you can find the original repository: https://sourceforge.net/p/tclap/code/ci/1.4/tree/
+
+Latest versions of TCLAP have a proper CMake and much better than my attempt here. Do you use the original repo and not my version!
+
+
+---
+
+---
 # Templatized C++ Command Line Parser Library (TCLAP)
 
 This repository contains the TCLAP library from [http://tclap.sourceforge.net/](http://tclap.sourceforge.net/).
